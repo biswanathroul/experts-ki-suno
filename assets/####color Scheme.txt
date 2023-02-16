@@ -1,0 +1,12 @@
+####color Scheme ref: github
+
+footer last ribbon: #f6f8fa
+base white: #fff
+green: #f6f8fa
+base black: #040d21
+blackish blue section: #0c162d
+
+
+
+
+API Key: AIzaSyBQbuLNE23WhVBePglGVmaQC_9dFNCJlSc
